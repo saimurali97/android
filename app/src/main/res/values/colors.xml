@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#FFE42021</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparent">#80000000</color>
+
+
+    <color name="color_restaurent_name">#222222</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorGrey">#FFB7B7B7</color>
+    <color name="light">#f2f2f2</color>
+    <color name="color_mints_miles">#999999</color>
+    <color name="color_food_name">#000000</color>
+    <color name="dot_line_color">#cccccc</color>
+    <color name="black">#101820</color>
+    <color name="colorBtnSkip">#FFE4E3E3</color>
+    <color name="colorTxtBtnGoogle">#FF333030</color>
+    <color name="colorBtnFacebook">#FF395795</color>
+    <color name="colorSkipTxt">#FF222222</color>
+    <color name="colorGreyBottomNavBar">#FF999999</color>
+</resources>

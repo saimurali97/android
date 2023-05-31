@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_offer.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_offer.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.newproject.user.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_edit_text_login_signup_bg.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/edit_text_login_signup_bg.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_menu.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_login_signup_bg.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/login_signup_bg.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.newproject.user.app-pngs-46:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_app_logo.webp.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/app_logo.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/navigation_appbar_nav.xml.flat",
+        "source": "com.newproject.user.app-main-53:/navigation/appbar_nav.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_insights.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_insights.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_login.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_sign_up.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_proxima_nova_medium.ttf.flat",
+        "source": "com.newproject.user.app-main-53:/font/proxima_nova_medium.ttf"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_order.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_menu.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_menu.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_left_shift.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/left_shift.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_worksans_regular.ttf.flat",
+        "source": "com.newproject.user.app-main-53:/font/worksans_regular.ttf"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_icon_arrow_down.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_icon_arrow_down.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_profile.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_worksans_font_family.xml.flat",
+        "source": "com.newproject.user.app-main-53:/font/worksans_font_family.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_spoon_and_fork.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_spoon_and_fork.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_fragment_offer.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/fragment_offer.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_quantum_ic_search_grey600_24.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/quantum_ic_search_grey600_24.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_edt_search_background.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/edt_search_background.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_button_welcome_page_login.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/button_welcome_page_login.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_activity_splash.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_worksans_semibold.ttf.flat",
+        "source": "com.newproject.user.app-main-53:/font/worksans_semibold.ttf"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_profile.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_profile.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.newproject.user.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_button_welcome_page_skip.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/button_welcome_page_skip.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_activity_auth.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_quantum_ic_clear_grey600_24.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/quantum_ic_clear_grey600_24.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable-v24_ic_insights.png.flat",
+        "source": "com.newproject.user.app-main-53:/drawable-v24/ic_insights.png"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_worksans_medium.ttf.flat",
+        "source": "com.newproject.user.app-main-53:/font/worksans_medium.ttf"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.newproject.user.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/layout_progress_dialog.xml.flat",
+        "source": "com.newproject.user.app-main-53:/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/navigation_auth_navigation.xml.flat",
+        "source": "com.newproject.user.app-main-53:/navigation/auth_navigation.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/color_bottom_nav_color.xml.flat",
+        "source": "com.newproject.user.app-main-53:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newproject.user.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.newproject.user.app-main-53:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.newproject.user.app-merged_res-51:/font_worksans_bold.ttf.flat",
+        "source": "com.newproject.user.app-main-53:/font/worksans_bold.ttf"
+    }
+]

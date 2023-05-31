@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.newproject.user"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:7:5-79
+11-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:7:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:8:5-67
+12-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:9:5-78
+13-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:10:5-80
+14-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:7:5-79
+15-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:7:22-76
+16
+17    <application
+17-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:14:5-43:19
+18        android:name="com.newproject.user.application.BaseApp"
+18-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:15:9-63
+19        android:allowBackup="true"
+19-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:16:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.8.0] C:\Users\saimurali\.gradle\caches\transforms-3\cce1189ce368c0acf0d332959e32fe0d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:18:9-65
+22        android:debuggable="true"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:19:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:20:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:21:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:22:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:23:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.MunchMagicRestaurant"
+29-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:24:9-58
+30        android:usesCleartextTraffic="true" >
+30-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:17:9-44
+31        <activity
+31-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:26:9-34:20
+32            android:name="com.newproject.user.view.ui.splash.SplashActivity"
+32-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:27:13-77
+33            android:exported="true"
+33-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:29:13-36
+34            android:theme="@style/Theme.Design.NoActionBar" >
+34-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:28:13-60
+35            <intent-filter>
+35-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:30:13-33:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:31:17-69
+36-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:31:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:32:17-77
+38-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:32:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:36:9-38:63
+42            android:name="com.newproject.user.view.ui.auth.AuthActivity"
+42-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:37:13-73
+43            android:theme="@style/Theme.Design.NoActionBar" />
+43-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:38:13-60
+44        <activity
+44-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:40:9-42:58
+45            android:name="com.newproject.user.MainActivity"
+45-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:41:13-60
+46            android:theme="@style/AppTheme.NoActionBar" />
+46-->C:\Users\saimurali\Downloads\clone-20230531T051015Z-001\clone\app\src\main\AndroidManifest.xml:42:13-56
+47
+48        <uses-library
+48-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+49            android:name="androidx.window.extensions"
+49-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+51        <uses-library
+51-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+52            android:name="androidx.window.sidecar"
+52-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0] C:\Users\saimurali\.gradle\caches\transforms-3\dac40edd4641f76f22f19e7d9129eec3\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.newproject.user.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\saimurali\.gradle\caches\transforms-3\96f4f666ea7a50baee1bab430127775c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\saimurali\.gradle\caches\transforms-3\337edca6305239f815e21dec62b8a4bb\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\saimurali\.gradle\caches\transforms-3\337edca6305239f815e21dec62b8a4bb\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\saimurali\.gradle\caches\transforms-3\337edca6305239f815e21dec62b8a4bb\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

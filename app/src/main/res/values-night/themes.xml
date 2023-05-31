@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MunchMagicRestaurant" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!--        &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+        <!--        <item Name="colorPrimary">@color/purple_200</item>-->
+        <!--        <item Name="colorPrimaryVariant">@color/purple_700</item>-->
+        <!--        <item Name="colorOnPrimary">@color/black</item>-->
+        <!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+        <!--        <item Name="colorSecondary">@color/teal_200</item>-->
+        <!--        <item Name="colorSecondaryVariant">@color/teal_200</item>-->
+        <!--        <item Name="colorOnSecondary">@color/black</item>-->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorWhite</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

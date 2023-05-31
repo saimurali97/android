@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#101820</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorBtnFacebook">#FF395795</color>
+    <color name="colorBtnSkip">#FFE4E3E3</color>
+    <color name="colorGrey">#FFB7B7B7</color>
+    <color name="colorGreyBottomNavBar">#FF999999</color>
+    <color name="colorPrimary">#FFE42021</color>
+    <color name="colorSkipTxt">#FF222222</color>
+    <color name="colorTransparent">#80000000</color>
+    <color name="colorTxtBtnGoogle">#FF333030</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="color_food_name">#000000</color>
+    <color name="color_mints_miles">#999999</color>
+    <color name="color_restaurent_name">#222222</color>
+    <color name="dot_line_color">#cccccc</color>
+    <color name="light">#f2f2f2</color>
+    <string name="app_name">NewProject</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_create_account">Create an account</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_login_Google">Continue with google</string>
+    <string name="btn_login_facebook">Continue with</string>
+    <string name="btn_otp_submit">Submit</string>
+    <string name="btn_sign_up">Sign up</string>
+    <string name="btn_skip">Skip</string>
+    <string name="dob_description1">We don\'t share your information. This is only to assure</string>
+    <string name="dob_description2">you are 13+ years old.</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="enter_all_fields"> Please fill all the details</string>
+    <string name="faq">FAQs</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_dob">Date of Birth*</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_login_mobile_number">Mobile Number</string>
+    <string name="hint_mobile_number">Mobile Number*</string>
+    <string name="hint_name">Name*</string>
+    <string name="hint_password">Password</string>
+    <string name="no_internet_error">No Internet , Please check your internet connectivity</string>
+    <string name="text_food_description">description</string>
+    <string name="text_search_faq">Search(based on faq)</string>
+    <string name="txt_have_an_account">Already have an account ?</string>
+    <string name="txt_log_in">Log in</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_login_details">Log into your account</string>
+    <string name="txt_or">OR</string>
+    <string name="txt_reg_details">Enter your registration details</string>
+    <string name="txt_sign_in">Sign in</string>
+    <string name="txt_verify_phone">VERIFY</string>
+    <string name="txt_welcome">Welcome!</string>
+    <string name="txt_welcome_detail">Order Food Feed The World</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar"/>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@color/colorTransparent</item>
+        
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Theme.Fab_Bottom_app_bar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+    </style>
+    <style name="Theme.MunchMagicRestaurant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorBlack</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+        
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorWhite</item>
+        <item name="colorOnSecondary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorWhite</item>
+        
+        <item name="android:statusBarColor">@color/colorWhite</item>
+        
+    </style>
+</resources>

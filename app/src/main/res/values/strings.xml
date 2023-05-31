@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">NewProject</string>
+
+
+    <string name="no_internet_error">No Internet , Please check your internet connectivity</string>
+
+
+    <string name="faq">FAQs</string>
+    <string name="text_search_faq">Search(based on faq)</string>
+    <string name="text_food_description">description</string>
+    <!-- Welcome Fragment -->
+    <string name="txt_welcome">Welcome!</string>
+    <string name="txt_welcome_detail">Order Food Feed The World</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_or">OR</string>
+    <string name="btn_login_facebook">Continue with</string>
+    <string name="btn_login_Google">Continue with google</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="btn_sign_up">Sign up</string>
+    <string name="btn_skip">Skip</string>
+
+
+    <!-- SignUp Fragment -->
+    <string name="txt_log_in">Log in</string>
+    <string name="txt_sign_in">Sign in</string>
+    <string name="txt_reg_details">Enter your registration details</string>
+    <string name="txt_have_an_account">Already have an account ?</string>
+    <string name="hint_name">Name*</string>
+    <string name="hint_dob">Date of Birth*</string>
+    <string name="dob_description1">We don\'t share your information. This is only to assure</string>
+    <string name="dob_description2">you are 13+ years old.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_mobile_number">Mobile Number*</string>
+    <string name="btn_create_account">Create an account</string>
+    <string name="btn_otp_submit">Submit</string>
+    <string name="txt_verify_phone">VERIFY</string>
+    <string name="enter_all_fields"> Please fill all the details</string>
+
+
+    <!-- Login Fragment -->
+    <string name="txt_login">Login</string>
+    <string name="txt_login_details">Log into your account</string>
+    <string name="hint_login_mobile_number">Mobile Number</string>
+    <string name="btn_continue">Continue</string>
+</resources>

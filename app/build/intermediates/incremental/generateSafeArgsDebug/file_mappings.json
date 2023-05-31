@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\appbar_nav.xml","javaFiles":[]},{"navFile":"src\\main\\res\\navigation\\auth_navigation.xml","javaFiles":["com.newproject.user.view.ui.auth.LoginFragmentDirections","com.newproject.user.view.ui.auth.SignUpFragmentDirections"]}]
